@@ -1,8 +1,5 @@
 {% capture footer_contents %}
-  &copy; Copyright {{ site.time | date: '%Y' }}
-  {{ site.first_name }}
-  {{ site.middle_name }}
-  {{ site.last_name }}. {{ site.footer_text }}
+  &copy; Copyright {{ site.time | date: '%Y' }} {{ site.footer_text }}
   {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
   {% endif %}
@@ -14,6 +11,16 @@
 {% if site.footer_fixed %}
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
+      {% if site.data.partners %}
+        <div class="partners-logos my-2 text-center">
+          {% for p in site.data.partners %}
+            <a href="{{ p.url }}" title="{{ p.name }}" target="_blank" rel="noopener noreferrer">
+              <img src="{{ p.image | relative_url }}" alt="{{ p.name }}" class="partner-logo" />
+            </a>
+          {% endfor %}
+        </div>
+        <p class="partners-credit small text-center mt-1">Avec le soutien financier de la MSH Paris Nord et de l'AFEP. Initiative autonome en lien avec la SOFEE.</p>
+      {% endif %}
       {{ footer_contents }}
     </div>
   </footer>
@@ -24,6 +31,16 @@
     {% endif %}
 
     <div class="container">
+      {% if site.data.partners %}
+        <div class="partners-logos my-2 text-center">
+          {% for p in site.data.partners %}
+            <a href="{{ p.url }}" title="{{ p.name }}" target="_blank" rel="noopener noreferrer">
+              <img src="{{ p.image | relative_url }}" alt="{{ p.name }}" class="partner-logo" />
+            </a>
+          {% endfor %}
+        </div>
+        <p class="partners-credit small text-center mt-1">Avec le soutien financier de la MSH Paris Nord et de l'AFEP. Initiative autonome en lien avec la SOFEE.</p>
+      {% endif %}
       {{ footer_contents }}
     </div>
   </footer>

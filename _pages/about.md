@@ -1,34 +1,39 @@
 ---
-layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+layout: page
+permalink: /about/
+title: About
+permalink: /about/
+subtitle: Affiliations. Address. Contacts. Motto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+nav: true
+nav_order: 2
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Le Collectif
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Le CIRCEE (Collectif Indiscipliné de Recherche Critique en Economie Ecologique) est un collectif de doctorant·e·s, essentiellement situé·e·s en Île-de-France, tissant un réseau de solidarité et ménageant un espace favorable au développement de l'économie écologique en France.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Parmi les activités du collectif, le séminaire d'économie écologique vise à construire un espace d'échanges scientifiques favorisant l'initiative des doctorant·e·s pour la construction d'une communauté et d'un programme de recherche pour l'économie écologique en France.
+
+Tout·e doctorant·e souhaitant participer peut proposer une séance thématique ou méthodologique pour l'édition 2026 du séminaire ! N'hésitez pas à rentrer en contact avec les organisateur·ice·s
+
+# Organisateur·ice·s du séminaire
+
+- Adam Poupard, doctorant à EconomiX, Université Paris-Nanterre & CESCO, Muséum National d'Histoire Naturelle
+- Mathieu Maguet, doctorant à l'URCA & iEES, Sorbonne Université
+- Morgane Gonon, doctorante au CIRED & AFD
+- Eulalie Saïsset, doctorante au CIRED & Sciences Po Paris
+
+# Newsletter
+
+Site d'inscription à la mailing list sur [Groupes Renater](https://groupes.renater.fr/sympa/subscribe/seminaire-circee).
+Alternative : pour s'inscrire, vous pouvez aussi envoyer un message avec pour objet *subscribe seminaire-circee [Prénom] [Nom]* à [sympa@groupes.renater.fr](sympa@groupes.renater.fr) depuis l'adresse mail que vous souhaitez inscrire.

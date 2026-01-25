@@ -1,0 +1,14 @@
+## Partners data file
+# Each entry should provide: name, url, and image (path under /assets/img/ or absolute URL)
+- name: MSH Paris Nord
+  url: https://www.mshparisnord.fr/
+  image: assets/img/partners/logo-MSH-Paris-Nord-2025.png
+
+- name: AFEP
+  url: https://assoeconomiepolitique.org/
+  image: assets/img/partners/logo-AFEP.jpg
+
+- name: SOFEE
+  url: https://sofeeasso.wordpress.com/
+  image: assets/img/partners/logo-SOFEE.jpg
+

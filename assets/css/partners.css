@@ -1,0 +1,39 @@
+/* Styles for partner logos shown in the footer */
+.partners-logos {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.partners-logos a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.125rem 0.25rem;
+}
+.partners-logos img.partner-logo {
+  max-height: 48px;
+  height: auto;
+  width: auto;
+  display: block;
+  filter: grayscale(100%);
+  opacity: 0.9;
+  transition: filter .2s ease, opacity .2s ease, transform .15s ease;
+}
+.partners-logos img.partner-logo:hover {
+  filter: none;
+  opacity: 1;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 576px) {
+  .partners-logos img.partner-logo { max-height: 36px; }
+}
+
+/* Credit text below partners logos */
+.partners-credit {
+  color: #6c757d;
+  margin-top: 0.25rem;
+  font-size: 0.9rem;
+}
+

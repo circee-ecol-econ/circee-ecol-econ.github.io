@@ -59,7 +59,16 @@
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
-            {% if p.nav and p.autogen == null %}
+            {% comment %} skip pages explicitly hidden in config (match by title, url or permalink) {% endcomment %}
+            {% assign skip_page = false %}
+            {% if site.hidden_nav %}
+              {% for h in site.hidden_nav %}
+                {% if h == p.title or h == p.url or h == p.permalink %}
+                  {% assign skip_page = true %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+            {% if p.nav and p.autogen == null and skip_page == false %}
               {% if p.dropdown %}
                 {% assign has_active_child = false %}
                 {% for child in p.children %}
