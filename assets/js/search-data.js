@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "Séance de lancement",
         
-        description: "post de seance de seminaire pour la seance 1 de la saison 2026",
+        description: "La première séance de la session 2026 se tiendra le 12 mars au Muséum National d&#39;Histoire Naturelle !",
         section: "Posts",
         handler: () => {
           
