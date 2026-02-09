@@ -37,3 +37,15 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 
 Site d'inscription à la mailing list sur [Groupes Renater](https://groupes.renater.fr/sympa/subscribe/seminaire-circee).
 Alternative : pour s'inscrire, vous pouvez aussi envoyer un message avec pour objet *subscribe seminaire-circee [Prénom] [Nom]* à [sympa@groupes.renater.fr](sympa@groupes.renater.fr) depuis l'adresse mail que vous souhaitez inscrire.
+
+# Financement et institutions
+
+Ce séminaire bénéficie du soutien financier de la MSH Paris Nord et de l'AFEP. Elle constitue une initiative autonome de doctorants en lien avec la SOFEE.
+
+<div class="partners-logos my-2 text-center">
+  {% for p in site.data.partners %}
+    <a href="{{ p.url }}" title="{{ p.name }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ p.image | relative_url }}" alt="{{ p.name }}" class="partner-logo" />
+    </a>
+  {% endfor %}
+</div>
