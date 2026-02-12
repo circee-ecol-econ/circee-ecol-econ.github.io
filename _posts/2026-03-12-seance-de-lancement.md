@@ -10,6 +10,8 @@ place: Muséum National d'Histoire Naturelle, Amphithéâtre Rouelle
 
 Notez dans vos agendas : lancement du séminaire du collectif CIRCEE le 12 mars 2026, de 15h30 à 18h30 au Muséum National d'Histoire Naturelle, dans l'amphithéâtre Rouelle.
 
+[POUR VENIR EN PRESENTIEL, VEUILLEZ VOUS INSCRIRE ICI](https://framaforms.org/seminaire-deconomie-ecologique-philosophoie-et-socio-anthropologie-de-lenvironnement-1770374509)
+
 {% include figure.liquid loading="eager" path="assets/img/session_poster/Séance1_CIRCEE_tiny.webp" alt="Poster de la séance de lancement CIRCEE 2026" title="Séance de lancement du CIRCEE - 12 mars 2026" %}
 
 # Programme
