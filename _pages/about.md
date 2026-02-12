@@ -32,6 +32,7 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 - Mathieu Maguet, doctorant à l'URCA & iEES, Sorbonne Université
 - Morgane Gonon, doctorante au CIRED & AFD
 - Eulalie Saïsset, doctorante au CIRED & Sciences Po Paris
+- Amine Messal, masterant à l'ENS Paris-Saclay et PSE
 
 # Newsletter
 
