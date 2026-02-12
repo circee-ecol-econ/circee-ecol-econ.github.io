@@ -14,9 +14,9 @@ Notez dans vos agendas : lancement du séminaire du collectif CIRCEE le 12 mars 
 
 # Programme
 
-En guise d'introduction au séminaire d'économie écologique organisé par le Collectif Indiscipliné de Recherche Critique en Economie Ecologique (CIRCEE), nous vous proposons de revenir aux bases : quelle est le rôle des SHS dans l'interface entre sciences et politique (ou société) ? Comment la conception du vivant  de l'économie ou des autres sciences humaines rencontrent, s'intersectent ou s'éloignent de celle des sciences naturelles, au premier rang desquelles l'écologie scientifique ?
+En guise d'introduction au séminaire d'économie écologique organisé par le Collectif Indiscipliné de Recherche Critique en Economie Ecologique (CIRCEE), nous vous proposons de revenir aux bases : quel est le rôle des SHS dans l'interface entre sciences et politique (ou société) ? Comment la conception du vivant  de l'économie ou des autres sciences humaines rencontrent, s'intersectent ou s'éloignent de celle des sciences naturelles, au premier rang desquelles l'écologie scientifique ?
 
-Nous explorerons ces questionnements auxquels se confrontent de nombreux doctorants tant en humanités environnementales, qu'en économie écologique ou de l'environnement ou en sciences naturelles. Le format est le suivant : 2 tables rondes avec accompagnées de discussions avec le public. 
+Nous explorerons ces questionnements auxquels se confrontent de nombreux doctorants tant en humanités environnementales, qu'en économie écologique ou en économie de l'environnement ou en sciences naturelles. Le format est le suivant : 2 tables rondes accompagnées de discussions avec le public. 
 
 ## Table ronde 1 à 15h30 : postures dans l'interface Sciences-Société
 
