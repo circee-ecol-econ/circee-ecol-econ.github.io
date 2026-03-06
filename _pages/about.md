@@ -18,7 +18,7 @@ latest_posts:
 ---
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/img/logo-circee-fond-clairplein.png' | relative_url }}" style="width: 100%; max-width: 700px;">
+  <img src="{{ 'logo-circee-fond-clairplein.png' | prepend: '/assets/img/' | relative_url }}" style="width: 100%; max-width: 700px;">
 </div>
 
 
