@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: About
-permalink: /about/
-subtitle: Affiliations. Address. Contacts. Motto. Etc.
+title: À Propos du CIRCEE
+subtitle: Collectif Indiscipliné de Recherche Critique en Économie Écologique
 
 nav: true
 nav_order: 2

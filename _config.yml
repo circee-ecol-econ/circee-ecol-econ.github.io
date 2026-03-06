@@ -9,11 +9,11 @@ last_name:
 contact_note: >
   Vous pouvez contacter directement les organisateur·ice·s du séminaire pour prendre contact.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Site des séminaires réguliers du CIRCEE.
+  Séminaire d'économie écologique du CIRCEE - Collectif de recherche critique en économie écologique basé en Île-de-France. Découvrez nos séances, calendrier et initiatives pour le développement de l'économie écologique en France.
 footer_text: > 
   Collectif Indiscipliné de Recherche Critique en Economie Ecologique - CIRCEE. 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: économie, écologique, CIRCEE, francilien # add your own keywords or leave empty
+keywords: séminaire économie écologique, CIRCEE, économie écologique, collectif recherche, doctorat, Île-de-France, économie, écologie
 lang: fr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: assets/img/logo-circee-fond-clair.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -80,7 +80,7 @@ max_width: 930px
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: /assets/img/logo-circee.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
