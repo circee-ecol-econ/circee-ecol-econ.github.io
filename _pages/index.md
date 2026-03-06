@@ -17,7 +17,7 @@ Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles 
 
 *Le {{ latest_post.date | date: "%-d" }} 
 {%- assign month_index = latest_post.date | date: "%-m" | minus: 1 -%} 
-{%- assign fr_months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: ","" -%}
+{%- assign fr_months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," -%}
 {{ fr_months[month_index] }} {{ latest_post.date | date: "%Y" }}
 {%- if latest_post.place %} à {{ latest_post.place }}{% endif %}*
 
