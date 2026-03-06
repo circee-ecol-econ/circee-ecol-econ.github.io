@@ -18,6 +18,12 @@ latest_posts:
   enabled: false
 ---
 
+<div style="text-align: center;">
+  <img src="{{ '/assets/img/logo-circee-fond-clairplein.png' | relative_url }}" style="width: 100%; max-width: 700px;">
+</div>
+
+
+
 # Le Collectif
 
 Le CIRCEE (Collectif Indiscipliné de Recherche Critique en Economie Ecologique) est un collectif de doctorant·e·s, essentiellement situé·e·s en Île-de-France, tissant un réseau de solidarité et ménageant un espace favorable au développement de l'économie écologique en France.
