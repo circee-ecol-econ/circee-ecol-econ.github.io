@@ -16,11 +16,11 @@ announcements:
 latest_posts:
   enabled: false
 ---
-
+<!-- 
 <div style="text-align: center;">
   <img src="{{ 'logo-circee-fond-clairplein.png' | prepend: '/assets/img/' | relative_url }}" style="width: 100%; max-width: 700px;">
 </div>
-
+-->
 
 
 # Le Collectif
