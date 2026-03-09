@@ -41,6 +41,6 @@ Tu es doctorant·e et tu veux nous rejoindre ? Contacte nous !
 
 # Lien distanciel et plan d'accès
 
-[LIEN POUR SUIVRE EN DISTANCIEL](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTk4MjcxOWUtZDNhMS00YzQ2LTg0MGYtYjk1MWUxOWRhMzBi%40thread.v2/0?context=%7b%22Tid%22%3a%22a37861db-695a-43bf-9e29-5179a055805b%22%2c%22Oid%22%3a%22d497020e-7df7-4f22-9929-10b9d290822e%22%7d)
+[LIEN ZOOM POUR SUIVRE EN DISTANCIEL](https://univ-reims-fr.zoom.us/j/94794031032?pwd=bibmeaKiDaAVInLYznbB3HiOKU99za.1)
 
 {% include figure.liquid loading="eager" path="assets/img/plan_dacces_amphitheatre_rouelle_mnhn.jpg" alt="Plan d'accès à l'amphi Rouelle" title="Accès à l'amphi" %}
