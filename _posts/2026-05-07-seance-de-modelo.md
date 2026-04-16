@@ -10,23 +10,24 @@ place: MSH Paris Nord
 
 Notez dans vos agendas : deuxième séance du séminaire CIRCEE le 7 mai 2026, de 9h30 à 12h30 à la Maison des Sciences de l'Homme Paris-Nord, dans [l'amphithéâtre](https://www.univ-paris8.fr/IMG/pdf/plan-acces-msh-paris-nord.pdf).
 
-[POUR VENIR EN PRESENTIEL, VEUILLEZ VOUS INSCRIRE ICI](https://framaforms.org/seminaire-deconomie-ecologique-philosophoie-et-socio-anthropologie-de-lenvironnement-1770374509)
+[POUR VENIR EN PRESENTIEL, VEUILLEZ VOUS INSCRIRE ICI](https://framaforms.org/seminaire-circee-2eme-seance-jeudi-7-mai-modelisation-macroecologique-1776259692)
 
 {% include figure.liquid loading="eager" path="assets/img/session_poster/Séance1_CIRCEE_tiny.webp" alt="Poster de la séance de lancement CIRCEE 2026" title="Séance de lancement du CIRCEE - 12 mars 2026" %}
 
 # Programme
 
-En guise d'introduction au séminaire d'économie écologique organisé par le Collectif Indiscipliné de Recherche Critique en Economie Ecologique (CIRCEE), nous vous proposons de revenir aux bases : quel est le rôle des SHS dans l'interface entre sciences et politique (ou société) ? Comment la conception du vivant  de l'économie ou des autres sciences humaines rencontrent, s'intersectent ou s'éloignent de celle des sciences naturelles, au premier rang desquelles l'écologie scientifique ?
+Nous avons le plaisir de vous annoncer la deuxième séance du séminaire d'économie écologique du CIRCEE, le jeudi 7 mai de 9h30 à 12h30 !
+La séance se déroulera en présentiel dans l’Auditorium de la Maison des Sciences Humaines Paris Nord - 20 Av. George Sand, 93210 Saint-Denis, sur le Campus Condorcet (métro Front Populaire, ligne 12).
 
-Nous explorerons ces questionnements auxquels se confrontent de nombreux doctorants tant en humanités environnementales, qu'en économie écologique ou en économie de l'environnement ou en sciences naturelles. Le format est le suivant : 2 tables rondes accompagnées de discussions avec le public. 
+Cette séance sera consacrée à la modélisation macroéconomique en économie écologique, ses perspectives et ses limites. Le format est le suivant : deux tables rondes accompagnées de discussions avec le public. Nous aborderons la question de la fabrique du discours et des rôles des modélisateur·rice·s ainsi que la question de la transparence dans la première table ronde et des perspectives de développement des modèles en économie écologique dans la deuxième. 
 
-## Table ronde 1 à 9h30 : La modélisation en institution
+## Table ronde 1 à 9h30 : La production de trajectoires - rôles des modèles et des modélisateur·rice·s.
 
 Alma MONSERAND, économiste à l'ADEME
 
 Antoine GODIN, économiste à l'AFD et chercheur associé au laboratoire ACT
 
-## Table ronde 2 à 11h : Frontiers in ecological macroeconomics
+## Table ronde 2 à 11h : Models, indicators and scenarios in ecological macroeconomics: moving beyond existing frameworks.
 
 [Guilherme MORLIN](https://www.unipi.it/en/about-us/organisation/people/guilherme-spinato-morlin-178711-en/), associate professor, Università di Pisa
 
