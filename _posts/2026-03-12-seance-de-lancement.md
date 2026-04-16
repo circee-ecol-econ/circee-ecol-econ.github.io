@@ -6,6 +6,7 @@ description: La première séance de la session 2026 se tiendra le 12 mars au Mu
 tags: lancement
 categories: session
 place: Muséum National d'Histoire Naturelle, Amphithéâtre Rouelle
+poster: Séance1_CIRCEE_tiny.webp
 ---
 
 Notez dans vos agendas : lancement du séminaire du collectif CIRCEE le 12 mars 2026, de 15h30 à 18h30 au Muséum National d'Histoire Naturelle, dans [l'amphithéâtre Rouelle](https://www.mnhn.fr/system/files/atoms/files/plan_dacces_amphitheatre_rouelle.pdf).

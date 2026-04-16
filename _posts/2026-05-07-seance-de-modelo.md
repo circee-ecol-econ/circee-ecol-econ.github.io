@@ -6,6 +6,7 @@ description: La deuxième séance de la session 2026 se tiendra le 7 mai à la M
 tags: modelo
 categories: session
 place: MSH Paris Nord
+poster: Séance2_CIRCEE.webp
 ---
 
 Notez dans vos agendas : deuxième séance du séminaire CIRCEE le 7 mai 2026, de 9h30 à 12h30 à la Maison des Sciences de l'Homme Paris-Nord, dans [l'amphithéâtre](https://www.univ-paris8.fr/IMG/pdf/plan-acces-msh-paris-nord.pdf).

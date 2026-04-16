@@ -48,3 +48,66 @@ Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles 
 </ul>
 
 # Séances passées
+
+{% assign past_sessions = site.posts | where_exp: "post", "post.categories contains 'session' and
+post.date < site.time" | sort: 'date' | reverse %}
+{% if past_sessions.size > 0 %}
+
+{% assign fr_months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre"
+| split: "," %}
+
+<div class="past-sessions">
+  {% for post in past_sessions %}
+  <div class="session-card">
+    <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+    {% if post.poster %}
+    <a href="{{ post.url | relative_url }}" class="session-poster">
+      <img
+        src="{{ 'assets/img/session_poster/' | relative_url }}{{ post.poster }}"
+        alt="Affiche - {{ post.title }}"
+      />
+    </a>
+    {% endif %}
+    {% assign month_index = post.date | date: "%-m" | minus: 1 %}
+    <p class="post-meta">
+      Le {{ post.date | date: "%-d" }} {{ fr_months[month_index] }} {{ post.date | date: "%Y" }}
+    </p>
+  </div>
+  {% endfor %}
+</div>
+
+<style>
+  .past-sessions {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+
+  .session-card {
+    text-align: center;
+  }
+
+  .session-poster {
+    display: block;
+    margin: 1rem 0;
+  }
+
+  .session-poster img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.2s;
+  }
+
+  .session-poster:hover img {
+    transform: scale(1.05);
+  }
+</style>
+
+{% else %}
+
+<p><em>Aucune séance passée pour le moment.</em></p>
+
+{% endif %}
+
