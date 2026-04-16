@@ -12,7 +12,7 @@ Notez dans vos agendas : deuxième séance du séminaire CIRCEE le 7 mai 2026, d
 
 [POUR VENIR EN PRESENTIEL, VEUILLEZ VOUS INSCRIRE ICI](https://framaforms.org/seminaire-circee-2eme-seance-jeudi-7-mai-modelisation-macroecologique-1776259692)
 
-{% include figure.liquid loading="eager" path="assets/img/session_poster/Séance1_CIRCEE_tiny.webp" alt="Poster de la séance de lancement CIRCEE 2026" title="Séance de lancement du CIRCEE - 12 mars 2026" %}
+{% include figure.liquid loading="eager" path="assets\img\session_poster\Séance2_CIRCEE.webp" alt="Poster de la séance de lancement CIRCEE 2026" title="Séance de lancement du CIRCEE - 12 mars 2026" %}
 
 # Programme
 
