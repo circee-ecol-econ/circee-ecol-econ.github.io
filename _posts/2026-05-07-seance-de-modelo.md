@@ -9,7 +9,7 @@ place: MSH Paris Nord
 poster: Séance2_CIRCEE.webp
 ---
 
-Notez dans vos agendas : deuxième séance du séminaire CIRCEE le 7 mai 2026, de 9h30 à 12h30 à la Maison des Sciences de l'Homme Paris-Nord, dans [l'amphithéâtre](https://www.univ-paris8.fr/IMG/pdf/plan-acces-msh-paris-nord.pdf).
+Notez dans vos agendas : deuxième séance du séminaire CIRCEE le 7 mai 2026, de 9h30 à 12h30 à la Maison des Sciences de l'Homme Paris-Nord, dans [l'Auditorium](https://www.univ-paris8.fr/IMG/pdf/plan-acces-msh-paris-nord.pdf).
 
 [POUR VENIR EN PRESENTIEL, VEUILLEZ VOUS INSCRIRE ICI](https://framaforms.org/seminaire-circee-2eme-seance-jeudi-7-mai-modelisation-macroecologique-1776259692)
 
