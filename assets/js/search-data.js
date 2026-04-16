@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/about/";
           },
-        },{id: "post-séance-de-lancement",
+        },{id: "post-séance-de-modélisation-amp-macroéconomie-écologique",
+        
+          title: "Séance de modélisation &amp; macroéconomie écologique",
+        
+        description: "La deuxième séance de la session 2026 se tiendra le 7 mai à la MSH Paris Nord !",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seance-de-modelo/";
+          
+        },
+      },{id: "post-séance-de-lancement",
         
           title: "Séance de lancement",
         
