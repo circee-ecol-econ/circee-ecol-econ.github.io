@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Séance de lancement
-date: 12 mars 2026
+date: 2026-03-12
 description: La première séance de la session 2026 se tiendra le 12 mars au Muséum National d'Histoire Naturelle !
 tags: lancement
 categories: session
