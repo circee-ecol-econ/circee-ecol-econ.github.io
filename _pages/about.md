@@ -38,6 +38,8 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 - Morgane Gonon, doctorante au CIRED & AFD
 - Eulalie Saïsset, doctorante au CIRED & Sciences Po Paris
 - Amine Messal, masterant à l'ENS Paris-Saclay et PSE
+- Dimitri Goldztejn, doctorant au laboratoire ACT (USPN)
+- Côme de Chefdebien-Zagarriga, doctorant au laboratoire ACT (USPN)
 
 # Newsletter
 
