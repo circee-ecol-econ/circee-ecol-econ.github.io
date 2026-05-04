@@ -16,7 +16,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/about/";
           },
-        },{id: "post-séance-de-modélisation-amp-macroéconomie-écologique",
+        },{id: "post-séance-métaux-critique-et-sud-s",
+        
+          title: "Séance métaux critique et Sud(s)",
+        
+        description: "La quatrième séance de la session 2026 se tiendra le 6 juin à la MSH Paris Nord !",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seance-Sud-metaux/";
+          
+        },
+      },{id: "post-séance-histoire-et-conjoncture-de-l-39-agriculture-française",
+        
+          title: "Séance histoire et conjoncture de l&#39;agriculture française",
+        
+        description: "La troisième séance de la session 2026 se tiendra le 29 mai au laboratoire iEES, à Jussieu !",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seance-agri/";
+          
+        },
+      },{id: "post-séance-de-modélisation-amp-macroéconomie-écologique",
         
           title: "Séance de modélisation &amp; macroéconomie écologique",
         
