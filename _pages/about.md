@@ -40,6 +40,11 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 - Amine Messal, masterant à l'ENS Paris-Saclay et PSE
 - Dimitri Goldztejn, doctorant au laboratoire ACT (USPN)
 - Côme de Chefdebien-Zagarriga, doctorant au laboratoire ACT (USPN)
+- Julia Carvalho Bandeira, doctorante au Cresppa, Université Paris 8
+- Luca Tausch, doctorant à EconomiX, Université Paris Nanterre
+- Pauline Bucciarelli, post-doctorante au CMA aux Mines ParisTech
+- Benjamin Trouvé, doctorant à EconomiX à l'Université Paris Nanterre
+- Tanguy Bonnet, ATER à l'Université Paris Nanterre
 
 # Newsletter
 

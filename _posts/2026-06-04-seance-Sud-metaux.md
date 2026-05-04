@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Séance de modélisation & macroéconomie écologique
-date: 2026-05-07
-description: La deuxième séance de la session 2026 se tiendra le 7 mai à la MSH Paris Nord !
-tags: modelo
+title: Séance métaux critique et Sud(s)
+date: 2026-06-04
+description: La quatrième séance de la session 2026 se tiendra le 6 juin à la MSH Paris Nord !
+tags: sud
 categories: session
 place: MSH Paris Nord
-poster: Séance2_CIRCEE.webp
+poster: Séance4_CIRCEE.webp
 ---
 
-Notez dans vos agendas : deuxième séance du séminaire CIRCEE le 7 mai 2026, de 9h30 à 12h30 à la Maison des Sciences de l'Homme Paris-Nord, dans [l'Auditorium](https://www.univ-paris8.fr/IMG/pdf/plan-acces-msh-paris-nord.pdf).
+Notez dans vos agendas : quatrième séance du séminaire CIRCEE le 4 juin 2026, de 9h30 à 16h30 à la Maison des Sciences de l'Homme Paris-Nord (provisoire).
 
 [POUR SUIVRE LA DEUXIEME TABLE-RONDE (11H-12H30) A DISTANCE (EN ANGLAIS), CLIQUEZ-ICI](https://www.youtube.com/@MSHParisNord/streams)
 
@@ -43,4 +43,4 @@ Tu es doctorant·e et tu veux nous rejoindre ? Contacte nous !
 
 # Lien distanciel et plan d'accès
 
-Seule la seconde séance sera retransmise en ligne au lien suivant : [LIEN ZOOM POUR SUIVRE EN DISTANCIEL](https://www.youtube.com/@MSHParisNord/streams)
+Seule la seconde séance sera retransmise en ligne au lien suivant : [LIEN ZOOM POUR SUIVRE EN DISTANCIEL]()
