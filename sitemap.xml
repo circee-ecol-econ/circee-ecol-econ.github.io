@@ -18,7 +18,14 @@ permalink: /sitemap.xml
     <priority>0.8</priority>
   </url>
 
-  <!-- Blog Posts -->
+  <!-- Calendar Page -->
+  <url>
+    <loc>{{ site.url }}/calendar/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog Posts & Sessions -->
   {% for post in site.posts %}
   <url>
     <loc>{{ site.url }}{{ post.url }}</loc>

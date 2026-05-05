@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Calendrier"
+title: "Accueil"
 permalink: /
 nav: false
 nav_order: 1
@@ -8,6 +8,7 @@ subtitle: "Liste des séances passées et à venir"
 ---
 
 Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles séances, n'hésitez pas à vous inscrire à la newsletter du séminaire sur [Groupes Renater](https://groupes.renater.fr/sympa/subscribe/seminaire-circee). 
+
 
 # Prochaine Séance
 
