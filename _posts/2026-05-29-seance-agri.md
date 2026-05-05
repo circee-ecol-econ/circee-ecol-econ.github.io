@@ -9,9 +9,9 @@ place: iEES, Jussieu, salle de conférence
 poster: Séance3_CIRCEE.webp
 ---
 
-Notez dans vos agendas : troisième séance du séminaire CIRCEE le vendredi 29 mai 2026, de 14h à 17h au laboratoire iEES à [Jussieu, Campus Pierre et Marie Curie, Barre 44 – 45](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus), 4e étage, salle de conférences – CC 237, 4 place Jussieu, 75005 PARIS.
+Notez dans vos agendas : troisième séance du séminaire CIRCEE le vendredi 29 mai 2026, de 14h à 17h à l'UFR TEB à [Jussieu, Campus Pierre et Marie Curie, 2e étage, Barre 46 – 56](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus), salle de conférences - 4 place Jussieu, 75005 PARIS.
 
-[POUR SUIVRE LA DEUXIEME TABLE-RONDE (11H-12H30) A DISTANCE (EN ANGLAIS), CLIQUEZ-ICI](https://univ-reims-fr.zoom.us/j/94794031032?pwd=bibmeaKiDaAVInLYznbB3HiOKU99za.1)
+LIEN POUR ASSISTER EN DISTANCIEL SUR LE MAIL OU SUR DEMANDE
 
 {% include figure.liquid loading="eager" path="assets/img/session_poster/Séance2_CIRCEE.webp" alt="Poster de la séance agri CIRCEE 2026" title="Séance agri du CIRCEE - 29 mai 2026" %}
 

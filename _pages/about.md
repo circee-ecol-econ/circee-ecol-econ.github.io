@@ -53,7 +53,7 @@ Alternative : pour s'inscrire, vous pouvez aussi envoyer un message avec pour ob
 
 # Financement et institutions
 
-Ce séminaire bénéficie du soutien financier de la MSH Paris Nord et de l'AFEP. Elle constitue une initiative autonome de doctorants en lien avec la SOFEE.
+Ce séminaire bénéficie du soutien financier de la MSH Paris Nord et de l'AFEP. Elle constitue une initiative autonome de doctorant·e·s en lien avec la SOFEE.
 
 <div class="partners-logos my-2 text-center">
   {% for p in site.data.partners %}

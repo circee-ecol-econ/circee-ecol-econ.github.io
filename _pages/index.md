@@ -9,6 +9,26 @@ subtitle: "Liste des séances passées et à venir"
 
 Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles séances, n'hésitez pas à vous inscrire à la newsletter du séminaire sur [Groupes Renater](https://groupes.renater.fr/sympa/subscribe/seminaire-circee). 
 
+# Prochaine Séance
+
+{% assign upcoming_sessions = site.posts | where_exp: "post", "post.date > site.time" | sort: 'date' %}
+{% assign next_post = upcoming_sessions | first %}
+{% if next_post %}
+**{{ next_post.title }}**
+
+*Le {{ next_post.date | date: "%-d" }} 
+{%- assign month_index = next_post.date | date: "%-m" | minus: 1 -%} 
+{%- assign fr_months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," -%}
+{{ fr_months[month_index] }} {{ next_post.date | date: "%Y" }}
+{%- if next_post.place %} à {{ next_post.place }}{% endif %}*
+
+{{ next_post.content }}
+{% endif %}
+
+---
+
+# Séances à venir
+
 <div id="calendar-container" style="margin: 2rem 0; background: #f9f9f9; padding: 20px; border-radius: 8px; color: #333 !important;">
   <h3 style="color: #333 !important;">📅 Calendrier des événements</h3>
   <div id="calendar" style="font-size: 14px;"></div>
@@ -173,26 +193,6 @@ Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles 
       document.getElementById('calendar').innerHTML = '<p style="color: #d32f2f !important;">Erreur lors du chargement du calendrier: ' + error.message + '</p>';
     });
 </script>
-
-# Prochaine Séance
-
-{% assign upcoming_sessions = site.posts | where_exp: "post", "post.date > site.time" | sort: 'date' %}
-{% assign next_post = upcoming_sessions | first %}
-{% if next_post %}
-**{{ next_post.title }}**
-
-*Le {{ next_post.date | date: "%-d" }} 
-{%- assign month_index = next_post.date | date: "%-m" | minus: 1 -%} 
-{%- assign fr_months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," -%}
-{{ fr_months[month_index] }} {{ next_post.date | date: "%Y" }}
-{%- if next_post.place %} à {{ next_post.place }}{% endif %}*
-
-{{ next_post.content }}
-{% endif %}
-
----
-
-# Séances à venir
 
 {% assign sessions = site.posts | where_exp: "post", "post.categories contains 'session' and post.date > site.time" | sort: 'date' %}
 
