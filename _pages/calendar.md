@@ -7,7 +7,7 @@ nav_order: 2
 subtitle: "Calendrier des évènements de l'économie écologique"
 ---
 
-Ce calendrier est tenu à jour par les membres du CIRCEE. N'hésitez pas à nous contacter pour y ajouter des évènements.
+Ce calendrier est tenu à jour par les membres du CIRCEE. Il recense d'autres intiatives que nous n'organisons pas mais que nous pensons utiles à des personnes intéressées par nos thématiques. N'hésitez pas à nous contacter pour y ajouter des évènements.
 
 Vous pouvez l'ajouter à votre agenda personnel (Téléphone, Thunderbird ou autre) avec ce [lien](https://alumni.epog.eu/remote.php/dav/public-calendars/6jgWoKW7o5appfJ3?export).
 
