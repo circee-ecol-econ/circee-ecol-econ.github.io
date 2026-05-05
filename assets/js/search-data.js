@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-calendrier",
-    title: "Calendrier",
+    id: "nav-accueil",
+    title: "Accueil",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -15,6 +15,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/about/";
+          },
+        },{id: "nav-calendrier",
+          title: "Calendrier",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/calendar/";
           },
         },{id: "post-séance-métaux-critique-et-sud-s",
         
