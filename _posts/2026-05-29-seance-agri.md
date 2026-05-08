@@ -5,7 +5,7 @@ date: 2026-05-29
 description: La troisième séance de la session 2026 se tiendra le 29 mai au laboratoire iEES, à Jussieu !
 tags: agri
 categories: session
-place: iEES, Jussieu, salle de conférence
+place: UFR TEB, Jussieu, salle de conférence
 poster: Séance3_CIRCEE.webp
 ---
 
@@ -13,11 +13,18 @@ Notez dans vos agendas : troisième séance du séminaire CIRCEE le vendredi 29 
 
 LIEN POUR ASSISTER EN DISTANCIEL SUR LE MAIL OU SUR DEMANDE
 
-{% include figure.liquid loading="eager" path="assets/img/session_poster/Séance2_CIRCEE.webp" alt="Poster de la séance agri CIRCEE 2026" title="Séance agri du CIRCEE - 29 mai 2026" %}
+{% include figure.liquid loading="eager" path="assets/img/session_poster/Séance3_CIRCEE_agri.webp" alt="Poster de la séance agri CIRCEE 2026" title="Séance agri du CIRCEE - 29 mai 2026" %}
 
 # Programme
 
 
 ## Table ronde 1 à 14h : Histoire éco-politique et métabolisme de l'agriculture française depuis l'après-guerre
 
+[Gilles ALLAIRE](https://www.persee.fr/authority/242313), directeur de recherche émérite et économiste, INRAe 
+[Josette GARNIER](https://www.academie-agriculture.fr/membres/annuaire/josette-garnier), directrice de recherche CNRS et biologiste, SU
+[Léna HUMBERT](https://crh.ehess.fr/index.php?8270), doctorante et historienne, CRH, EHESS
+
 ## Table ronde 2 à 15h30 : Conjoncture contemporaine et crise(s) de l'agriculture
+
+[Aimé PARIS](https://sophiapol.parisnanterre.fr/les-membres/doctorants), doctorant et philosophe, Université Paris Nanterre
+[Stanislas RIGAL](https://stanislas-rigal.e-monsite.com/), post-doctorant et économiste écologique, FRB

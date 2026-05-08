@@ -9,6 +9,12 @@ place: MSH Paris Nord
 poster: Séance2_CIRCEE.webp
 ---
 
+# Rediffusion 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/kuft9FRJ6Js" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Notez dans vos agendas : deuxième séance du séminaire CIRCEE le 7 mai 2026, de 9h30 à 12h30 à la Maison des Sciences de l'Homme Paris-Nord, dans [l'Auditorium](https://www.univ-paris8.fr/IMG/pdf/plan-acces-msh-paris-nord.pdf).
 
 [POUR SUIVRE LA DEUXIEME TABLE-RONDE (11H-12H30) A DISTANCE (EN ANGLAIS), CLIQUEZ-ICI](https://www.youtube.com/@MSHParisNord/streams)
@@ -41,6 +47,4 @@ Antoine GODIN, économiste à l'AFD et chercheur associé au laboratoire ACT
 La séance sera suivie d'une après-midi de travail entre doctorant·e·s et jeunes chercheur·euse·s.
 Tu es doctorant·e et tu veux nous rejoindre ? Contacte nous !
 
-# Lien distanciel et plan d'accès
 
-Seule la seconde séance sera retransmise en ligne au lien suivant : [LIEN ZOOM POUR SUIVRE EN DISTANCIEL](https://www.youtube.com/@MSHParisNord/streams)
