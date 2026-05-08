@@ -20,11 +20,11 @@ LIEN POUR ASSISTER EN DISTANCIEL SUR LE MAIL OU SUR DEMANDE
 
 ## Table ronde 1 à 14h : Histoire éco-politique et métabolisme de l'agriculture française depuis l'après-guerre
 
-[Gilles ALLAIRE](https://www.persee.fr/authority/242313), directeur de recherche émérite et économiste, INRAe 
-[Josette GARNIER](https://www.academie-agriculture.fr/membres/annuaire/josette-garnier), directrice de recherche CNRS et biologiste, SU
+[Gilles ALLAIRE](https://www.persee.fr/authority/242313), directeur de recherche émérite et économiste, INRAe <br>
+[Josette GARNIER](https://www.academie-agriculture.fr/membres/annuaire/josette-garnier), directrice de recherche CNRS et biologiste, SU <br>
 [Léna HUMBERT](https://crh.ehess.fr/index.php?8270), doctorante et historienne, CRH, EHESS
 
 ## Table ronde 2 à 15h30 : Conjoncture contemporaine et crise(s) de l'agriculture
 
-[Aimé PARIS](https://sophiapol.parisnanterre.fr/les-membres/doctorants), doctorant et philosophe, Université Paris Nanterre
+[Aimé PARIS](https://sophiapol.parisnanterre.fr/les-membres/doctorants), doctorant et philosophe, Université Paris Nanterre <br>
 [Stanislas RIGAL](https://stanislas-rigal.e-monsite.com/), post-doctorant et économiste écologique, FRB
