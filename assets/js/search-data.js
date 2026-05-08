@@ -38,7 +38,7 @@ ninja.data = [{
         
           title: "Séance histoire et conjoncture de l&#39;agriculture française",
         
-        description: "La troisième séance de la session 2026 se tiendra le 29 mai au laboratoire iEES, à Jussieu !",
+        description: "La troisième séance de la session 2026 se tiendra le 29 mai à l&#39;UFR TEB, à Jussieu !",
         section: "Posts",
         handler: () => {
           
