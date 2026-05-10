@@ -9,9 +9,22 @@ place: Muséum National d'Histoire Naturelle, Amphithéâtre Rouelle
 poster: Séance1_CIRCEE_tiny.webp
 ---
 
+# Rediffusion Table Ronde 1
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/1J2IYA8QnlI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+# Rediffusion Table Ronde 2
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/P7L97yXQhXw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
 Notez dans vos agendas : lancement du séminaire du collectif CIRCEE le 12 mars 2026, de 15h30 à 18h30 au Muséum National d'Histoire Naturelle, dans [l'amphithéâtre Rouelle](https://www.mnhn.fr/system/files/atoms/files/plan_dacces_amphitheatre_rouelle.pdf).
 
-[POUR VENIR EN PRESENTIEL, VEUILLEZ VOUS INSCRIRE ICI](https://framaforms.org/seminaire-deconomie-ecologique-philosophoie-et-socio-anthropologie-de-lenvironnement-1770374509)
 
 {% include figure.liquid loading="eager" path="assets/img/session_poster/Séance1_CIRCEE_tiny.webp" alt="Poster de la séance de lancement CIRCEE 2026" title="Séance de lancement du CIRCEE - 12 mars 2026" %}
 
