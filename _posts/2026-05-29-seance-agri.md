@@ -22,7 +22,8 @@ LIEN POUR ASSISTER EN DISTANCIEL SUR LE MAIL OU SUR DEMANDE
 
 [Gilles ALLAIRE](https://www.persee.fr/authority/242313), directeur de recherche émérite et économiste, INRAe <br>
 [Josette GARNIER](https://www.academie-agriculture.fr/membres/annuaire/josette-garnier), directrice de recherche CNRS et biologiste, SU <br>
-[Léna HUMBERT](https://crh.ehess.fr/index.php?8270), doctorante et historienne, CRH, EHESS
+[Léna HUMBERT](https://crh.ehess.fr/index.php?8270), doctorante et historienne, CRH, EHESS <br>
+[Clémence GADENNE-ROSFELDER](https://crh.ehess.fr/index.php?7253), doctorante et historienne, CRH, EHESS
 
 ## Table ronde 2 à 15h30 : Conjoncture contemporaine et crise(s) de l'agriculture
 
