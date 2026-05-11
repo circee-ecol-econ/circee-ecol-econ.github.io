@@ -48,7 +48,7 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 
 # Newsletter
 
-**Site d'inscription à la mailing list** sur [Groupes Renater](https://groupes.renater.fr/sympa/subscribe/seminaire-circee).
+**Site d'inscription à la mailing list** sur [Groupes Renater](https://groupes.renater.fr/sympa/subscribe/seminaire-circee). <br>
 **Alternative :** pour s'inscrire, vous pouvez aussi envoyer un message avec pour objet *subscribe seminaire-circee [Prénom] [Nom]* à [sympa@groupes.renater.fr](sympa@groupes.renater.fr) depuis l'adresse mail que vous souhaitez inscrire.
 
 # Financement et institutions
