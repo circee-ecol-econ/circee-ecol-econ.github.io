@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Séance de modélisation & macroéconomie écologique
+shorttitle: Macro écologique
 date: 2026-05-07
 description: La deuxième séance de la session 2026 se tiendra le 7 mai à la MSH Paris Nord !
 tags: modelo

@@ -62,12 +62,12 @@ post.date < site.time" | sort: 'date' | reverse %}
 <div class="past-sessions">
   {% for post in past_sessions %}
   <div class="session-card">
-    <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+    <h4><a href="{{ post.url | relative_url }}">{{ post.shorttitle }}</a></h4>
     {% if post.poster %}
     <a href="{{ post.url | relative_url }}" class="session-poster">
       <img
         src="{{ 'assets/img/session_poster/' | relative_url }}{{ post.poster }}"
-        alt="Affiche - {{ post.title }}"
+        alt="Affiche - {{ post.shorttitle }}"
       />
     </a>
     {% endif %}
