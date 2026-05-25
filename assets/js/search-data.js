@@ -27,7 +27,7 @@ ninja.data = [{
         
           title: "Séance métaux critique et Sud(s)",
         
-        description: "La quatrième séance de la session 2026 se tiendra le 6 juin à la MSH Paris Nord !",
+        description: "La quatrième séance de la session 2026 se tiendra le jeudi 6 juin à la MSH Paris Nord !",
         section: "Posts",
         handler: () => {
           
