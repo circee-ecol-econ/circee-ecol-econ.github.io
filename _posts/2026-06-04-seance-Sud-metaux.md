@@ -18,7 +18,7 @@ Notez dans vos agendas : quatrième séance du séminaire CIRCEE le jeudi 4 juin
 
 # Programme
 
-## Roundtable 1 : Ecologically unqueal exchange : theories and limits
+## Roundtable 1 : Ecologically unequal exchange : theories and limits
 
 [Jeff ALTHOUSE](https://www.jeffalthouse.com/), associate researcher, lecturer and ecological economist, USPN <br>
 [Morena HANBURY LEMOS](https://www.realpostgrowth.eu/people/morena-hanbury-lemos/), PhD candidate and ecological economist, ICTA-UAB (Barcelona)
