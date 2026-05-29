@@ -3,7 +3,7 @@ layout: post
 title: Séance métaux critique et Sud(s)
 shorttitle: Sud(s) & métaux
 date: 2026-06-04
-description: La quatrième séance de la session 2026 se tiendra le jeudi 6 juin à la MSH Paris Nord !
+description: La quatrième séance de la session 2026 se tiendra le jeudi 4 juin à la MSH Paris Nord !
 tags: sud
 categories: session
 place: MSH Paris Nord

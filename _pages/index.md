@@ -12,8 +12,23 @@ Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles 
 
 # Prochaine Séance
 
-{% assign upcoming_sessions = site.posts | where_exp: "post", "post.date >= site.time" | sort: 'date' %}
-{% assign next_post = upcoming_sessions | first %}
+{% assign today = site.time | date: "%Y-%m-%d" %}
+{% assign next_post = nil %}
+{% assign closest_future_date = nil %}
+
+{% for post in site.posts %}
+  {% assign post_date = post.date | date: "%Y-%m-%d" %}
+  
+  {% if post_date == today %}
+    {% assign next_post = post %}
+    {% break %}
+  {% elsif post_date > today %}
+    {% if closest_future_date == nil or post_date < closest_future_date %}
+      {% assign next_post = post %}
+      {% assign closest_future_date = post_date %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 {% if next_post %}
 **{{ next_post.title }}**
 
@@ -30,7 +45,13 @@ Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles 
 
 # Séances à venir
 
-{% assign sessions = site.posts | where_exp: "post", "post.categories contains 'session' and post.date >= site.time" | sort: 'date' %}
+{% assign sessions = "" | split: "|" %}
+{% for post in site.posts | sort: 'date' %}
+  {% assign post_date = post.date | date: "%Y-%m-%d" %}
+  {% if post.categories contains 'session' and post_date >= today %}
+    {% assign sessions = sessions | push: post %}
+  {% endif %}
+{% endfor %}
 
 <ul class="post-list">
   {% if sessions.size > 0 %}
@@ -52,8 +73,13 @@ Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles 
 
 # Séances passées
 
-{% assign past_sessions = site.posts | where_exp: "post", "post.categories contains 'session' and
-post.date < site.time" | sort: 'date' | reverse %}
+{% assign past_sessions = "" | split: "|" %}
+{% for post in site.posts | sort: 'date' | reverse %}
+  {% assign post_date = post.date | date: "%Y-%m-%d" %}
+  {% if post.categories contains 'session' and post_date < today %}
+    {% assign past_sessions = past_sessions | push: post %}
+  {% endif %}
+{% endfor %}
 {% if past_sessions.size > 0 %}
 
 {% assign fr_months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre"
