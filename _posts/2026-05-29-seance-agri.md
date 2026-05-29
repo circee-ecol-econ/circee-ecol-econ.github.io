@@ -22,7 +22,7 @@ Notez dans vos agendas : troisième séance du séminaire CIRCEE le vendredi 29 
 ## Table ronde 1 à 14h : Histoire éco-politique et métabolisme de l'agriculture française depuis l'après-guerre
 
 [Gilles ALLAIRE](https://www.persee.fr/authority/242313), directeur de recherche émérite et économiste, INRAe <br>
-[Josette GARNIER](https://www.academie-agriculture.fr/membres/annuaire/josette-garnier), directrice de recherche CNRS et biologiste, SU <br>
+[Josette GARNIER](https://www.academie-agriculture.fr/membres/annuaire/josette-garnier), directrice de recherche CNRS et biogéochimiste, SU <br>
 [Léna HUMBERT](https://crh.ehess.fr/index.php?8270), doctorante et historienne, CRH, EHESS <br>
 [Clémence GADENNE-ROSFELDER](https://crh.ehess.fr/index.php?7253), doctorante et historienne, CRH, EHESS
 
