@@ -12,7 +12,7 @@ Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles 
 
 # Prochaine Séance
 
-{% assign upcoming_sessions = site.posts | where_exp: "post", "post.date > site.time" | sort: 'date' %}
+{% assign upcoming_sessions = site.posts | where_exp: "post", "post.date >= site.time" | sort: 'date' %}
 {% assign next_post = upcoming_sessions | first %}
 {% if next_post %}
 **{{ next_post.title }}**
@@ -30,7 +30,7 @@ Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles 
 
 # Séances à venir
 
-{% assign sessions = site.posts | where_exp: "post", "post.categories contains 'session' and post.date > site.time" | sort: 'date' %}
+{% assign sessions = site.posts | where_exp: "post", "post.categories contains 'session' and post.date >= site.time" | sort: 'date' %}
 
 <ul class="post-list">
   {% if sessions.size > 0 %}
