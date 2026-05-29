@@ -7,7 +7,7 @@ description: La troisième séance de la session 2026 se tiendra le 29 mai à l'
 tags: agri
 categories: session
 place: UFR TEB, Jussieu, salle de conférence
-poster: Séance4_CIRCEE_agri.webp
+poster: Séance3_CIRCEE_agri.webp
 ---
 
 Notez dans vos agendas : troisième séance du séminaire CIRCEE le vendredi 29 mai 2026, de 14h à 17h à l'UFR TEB à [Jussieu, Campus Pierre et Marie Curie, 2e étage, Barre 46 – 56](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus), salle de conférences - 4 place Jussieu, 75005 PARIS.
