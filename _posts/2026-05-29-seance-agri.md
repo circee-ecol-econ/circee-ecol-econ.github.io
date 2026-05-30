@@ -28,5 +28,5 @@ Notez dans vos agendas : troisième séance du séminaire CIRCEE le vendredi 29 
 
 ## Table ronde 2 à 15h30 : Conjoncture contemporaine et crise(s) de l'agriculture
 
-[Aimé PARIS](https://sophiapol.parisnanterre.fr/les-membres/doctorants), doctorant et philosophe, Université Paris Nanterre <br>
+[Aimé PARIS](https://sophiapol.parisnanterre.fr/les-membres/doctorants), docteur et philosophe, Université Paris Nanterre <br>
 [Stanislas RIGAL](https://stanislas-rigal.e-monsite.com/), post-doctorant et économiste écologique, FRB

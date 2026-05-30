@@ -53,7 +53,7 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 
 # Financement et institutions
 
-Ce séminaire bénéficie du soutien financier de la MSH Paris Nord et de l'AFEP. Elle constitue une initiative autonome de doctorant·e·s en lien avec la SOFEE.
+Ce séminaire bénéficie du soutien financier de la MSH Paris Nord et de l'AFEP. Elle constitue une initiative autonome de doctorant·e·s en lien avec la [SOFEE](http://www.economie-ecologique.org/) et [Ecohesion](https://www.ecohesion.it/fr/).
 
 <div class="partners-logos my-2 text-center">
   {% for p in site.data.partners %}
