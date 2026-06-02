@@ -14,6 +14,8 @@ poster: Séance4_CIRCEE_EUE.webp
 
 Notez dans vos agendas : quatrième séance du séminaire CIRCEE le jeudi 4 juin 2026, de 9h30 à 16h30 à la Maison des Sciences de l'Homme Paris-Nord dans la salle panoramique (dernier étage).
 
+[LIEN POUR SUIVRE A DISTANCE](https://rendez-vous.renater.fr/muted_private/CIRCEE_Ecological_Unequal_Exchange_and_Critical_Materials__otqbnktej3mq_f7c8cc-1db8cd-e0158b#config.startWithVideoMuted=true&config.startWithAudioMuted=true)
+
 {% include figure.liquid loading="eager" path="assets/img/session_poster/Séance4_CIRCEE_EUE.webp" alt="Poster de la séance de modélo CIRCEE 2026" title="Séance de modélo du CIRCEE - 7 mai 2026" %}
 
 # Programme
