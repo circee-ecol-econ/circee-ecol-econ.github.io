@@ -10,9 +10,20 @@ place: UFR TEB, Jussieu, salle de conférence
 poster: Séance3_CIRCEE_agri.webp
 ---
 
+# Rediffusion Table Ronde 1
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/FJqCEj12MCY" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+# Rediffusion Table Ronde 2
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/3veCr_tPpv4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Notez dans vos agendas : troisième séance du séminaire CIRCEE le vendredi 29 mai 2026, de 14h à 17h à l'UFR TEB à [Jussieu, Campus Pierre et Marie Curie, 2e étage, Barre 46 – 56](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus), salle de conférences - 4 place Jussieu, 75005 PARIS.
 
-[LIEN POUR ASSISTER EN DISTANCIEL](https://univ-reims-fr.zoom.us/j/95344634210?pwd=gHPdbHKOik2ewPGqeYy4Rd3pYEXe1L.1)
 
 {% include figure.liquid loading="eager" path="assets/img/session_poster/Séance3_CIRCEE_agri.webp" alt="Poster de la séance agri CIRCEE 2026" title="Séance agri du CIRCEE - 29 mai 2026" %}
 
