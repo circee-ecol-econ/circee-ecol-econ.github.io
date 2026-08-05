@@ -45,6 +45,12 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 - Pauline Bucciarelli, post-doctorante au CMA aux Mines ParisTech
 - Benjamin Trouvé, doctorant à EconomiX à l'Université Paris Nanterre
 - Tanguy Bonnet, ATER à l'Université Paris Nanterre
+- Jean-André Davy--Guidicelli, doctorant à l'Université de Lausanne
+- Matthieu Bordenave, doctorant à l'Université de Pise, et à l'UCLouvain
+- Julien Salama, doctorant à l'Université de Florence
+- Layla Hallak, doctorante à l'Université de Rouen
+- Julia Péré, doctorante au CIRED
+- Kilian Rouge, doctorant au CIRED
 
 # Newsletter
 
