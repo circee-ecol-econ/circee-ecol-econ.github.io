@@ -7,7 +7,7 @@ description: La cinquième séance de la session 2026 se tiendra le vendredi 25 
 tags: tr
 categories: session
 place: MSH Paris Nord
-poster: _2026-09-25-seance-regulation.md
+poster: 2026-09-25-seance-regulation.md
 ---
 
 Notez dans vos agendas : la séance « Théorie de la régulation » du séminaire des doctorant·e·s du CIRCEE aura lieu le vendredi 25 septembre 2026, de 13h30 à 17h, à l'Auditorium de la MSH Paris-Nord.
