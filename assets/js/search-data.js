@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/calendar/";
           },
-        },{id: "post-séance-métaux-critique-et-sud-s",
+        },{id: "post-séance-théorie-de-la-régulation-et-écologie",
+        
+          title: "Séance Théorie de la Régulation et Écologie",
+        
+        description: "La cinquième séance de la session 2026 se tiendra le vendredi 25 septembre à la MSH Paris Nord, dans l&#39;Auditorium et en hybride !",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seance-regulation/";
+          
+        },
+      },{id: "post-séance-métaux-critique-et-sud-s",
         
           title: "Séance métaux critique et Sud(s)",
         
