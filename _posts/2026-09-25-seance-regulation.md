@@ -21,7 +21,7 @@ La séance se tiendra en hybride. Les informations pour la suivre à distance se
 ## Table ronde 1 à 13h30 : Growth dependence in modern capitalisms
 
 [Laura WIMAN](https://nofunallowed.fi/about/), PhD, researcher at VTT Tech Research Centre of Finland
-[Riwan DRIOUICH](https://www.realpostgrowth.eu/people/riwan-driouich/), PhD student at UAB & EHESS
+[Riwan DRIOUICH](https://iris.ehess.fr/index.php?5865), PhD student at UAB & EHESS
 
 Animation : Louison CAHEN-FOUROT
 
