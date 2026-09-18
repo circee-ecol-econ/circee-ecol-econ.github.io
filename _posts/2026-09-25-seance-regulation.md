@@ -6,13 +6,13 @@ date: 2026-09-25
 description: La cinquième séance de la session 2026 se tiendra le vendredi 25 septembre à la MSH Paris Nord, dans l'Auditorium et en hybride !
 tags: tr
 categories: session
-place: MSH Paris Nord
+place: à 13h30 à la MSH Paris Nord et en ligne
 poster: Séance5_CIRCEE_TR.webp
 ---
 
 Notez dans vos agendas : la séance « Théorie de la régulation » du séminaire des doctorant·e·s du CIRCEE aura lieu le vendredi 25 septembre 2026, de 13h30 à 17h, à l'Auditorium de la MSH Paris-Nord.
 
-La séance se tiendra en hybride. Les informations pour la suivre à distance serton disponibles sur ce site quand le lien y sera diffusé.
+La séance se tiendra en hybride. Cliquez sur le lien ci-dessous pour rejoindre la séance. 
 
 <a href="https://univ-reims-fr.zoom.us/j/92074485206" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top: 1rem; padding: 0.75rem 1.25rem; background: #0d6efd; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">Rejoindre la visioconférence</a>
 
