@@ -14,6 +14,8 @@ Notez dans vos agendas : la séance « Théorie de la régulation » du séminai
 
 La séance se tiendra en hybride. Les informations pour la suivre à distance serton disponibles sur ce site quand le lien y sera diffusé.
 
+<a href="https://univ-reims-fr.zoom.us/j/92074485206" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top: 1rem; padding: 0.75rem 1.25rem; background: #0d6efd; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">Rejoindre la visioconférence</a>
+
 {% include figure.liquid loading="eager" path="assets/img/session_poster/Séance5_CIRCEE_TR.webp" alt="Poster de la séance de modélo CIRCEE 2026" title="Séance de modélo du CIRCEE - 7 mai 2026" %}
 
 # Programme
