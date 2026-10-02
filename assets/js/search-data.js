@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/calendar/";
           },
-        },{id: "post-séance-théorie-de-la-régulation-et-écologie",
+        },{id: "post-séance-limites-planétaires",
+        
+          title: "Séance Limites planétaires",
+        
+        description: "La sixième séance de la session 2026 se tiendra le jeudi 22 octobre au CIRED, en salle de conférence et en hybride !",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seance-LP/";
+          
+        },
+      },{id: "post-séance-théorie-de-la-régulation-et-écologie",
         
           title: "Séance Théorie de la Régulation et Écologie",
         
