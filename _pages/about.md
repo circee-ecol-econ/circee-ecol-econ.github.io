@@ -51,6 +51,7 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 - Layla Hallak, doctorante à l'Université de Rouen
 - Julia Péré, doctorante au CIRED
 - Kilian Rouge, doctorant au CIRED
+- Arnaud Destarac, doctorant au CIRED
 
 # Newsletter
 
