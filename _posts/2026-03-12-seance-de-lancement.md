@@ -12,15 +12,11 @@ poster: Séance1_CIRCEE_tiny.webp
 
 # Rediffusion Table Ronde 1
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/1J2IYA8QnlI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 # Rediffusion Table Ronde 2
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/P7L97yXQhXw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 
 
@@ -43,6 +39,10 @@ Nous explorerons ces questionnements auxquels se confrontent de nombreux doctora
 
 [Morgane GONON](https://www.centre-cired.fr/morgane-gonon/), doctorante en économie au CIRED et à l'AFD
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/1J2IYA8QnlI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Table ronde 2 à 17h : les Sciences Sociales et le Vivant
 
 [Rayan DEQUIN](https://www.centre-max-weber.fr/Rayan-Dequin), doctorant en sociologie au centre Max Weber
@@ -51,11 +51,15 @@ Nous explorerons ces questionnements auxquels se confrontent de nombreux doctora
 
 [Jane LECOMTE](https://www.universite-paris-saclay.fr/actualites/jane-lecomte-rendre-sa-liberte-la-biodiversite), professeure UPSaclay et écologue détachée au MNHN
 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/P7L97yXQhXw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 La séance sera suivie d'un moment de convivialité ouvert à tous·tes !
 Tu es doctorant·e et tu veux nous rejoindre ? Contacte nous !
 
-# Lien distanciel et plan d'accès
-
-[LIEN ZOOM POUR SUIVRE EN DISTANCIEL](https://univ-reims-fr.zoom.us/j/94794031032?pwd=bibmeaKiDaAVInLYznbB3HiOKU99za.1)
+# Plan d'accès
 
 {% include figure.liquid loading="eager" path="assets/img/plan_dacces_amphitheatre_rouelle_mnhn.jpg" alt="Plan d'accès à l'amphi Rouelle" title="Accès à l'amphi" %}

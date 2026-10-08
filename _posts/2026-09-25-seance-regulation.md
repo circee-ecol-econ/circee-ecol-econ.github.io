@@ -10,12 +10,6 @@ place: à 13h30 à la MSH Paris Nord et en ligne
 poster: Séance5_CIRCEE_TR.webp
 ---
 
-Notez dans vos agendas : la séance « Théorie de la régulation » du séminaire des doctorant·e·s du CIRCEE aura lieu le vendredi 25 septembre 2026, de 13h30 à 17h, à l'Auditorium de la MSH Paris-Nord.
-
-La séance se tiendra en hybride. Cliquez sur le lien ci-dessous pour rejoindre la séance. 
-
-<a href="https://univ-reims-fr.zoom.us/j/92074485206" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top: 1rem; padding: 0.75rem 1.25rem; background: #0d6efd; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">Rejoindre la visioconférence</a>
-
 {% include figure.liquid loading="eager" path="assets/img/session_poster/Séance5_CIRCEE_TR.webp" alt="Poster de la séance de modélo CIRCEE 2026" title="Séance de modélo du CIRCEE - 7 mai 2026" %}
 
 # Programme
@@ -27,13 +21,24 @@ La séance se tiendra en hybride. Cliquez sur le lien ci-dessous pour rejoindre 
 
 Animation : Louison CAHEN-FOUROT
 
-Table ronde 2 à 15h : Vers une mésoéconomie écologique ?
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/N8T1i5HS7lY" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+## Table ronde 2 à 15h : Vers une mésoéconomie écologique ?
 
 [Alban PELLEGRIS](https://www.researchgate.net/profile/Alban-Pellegris), associate professor at Rennes 2
 [Julie CANDAN](https://erasme.univ-spn.fr/julie-candan/), PhD student at Paris 13
 [Albert BOUFFANGE](https://albertbouffange.github.io/), PhD student at Sciences Po Lyon & INRIA Grenoble
 
-Animation : Marie DERVILLE
+Animation : Marie DERVILLÉ
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/FaMaq1l4TQg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 La séance sera suivie d'un moment convivial.
 
