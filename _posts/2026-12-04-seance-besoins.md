@@ -6,11 +6,11 @@ date: 2026-12-04
 description: La huitième séance de la session 2026 se tiendra le vendredi 4 décembre au CIRED, en salle de conférence et en hybride !
 tags: besoins
 categories: session
-place: à 14h au CIRED et en ligne
+place: à 13h30 au CIRED et en ligne
 poster: Séance7_besoins.webp
 ---
 
-Notez dans vos agendas : la séance « Besoins » du séminaire des doctorant·e·s du CIRCEE aura lieu le vendredi 4 décembre 2026, de 14h à 18h, au CIRED, en salle de conférence.
+Notez dans vos agendas : la séance « Besoins » du séminaire des doctorant·e·s du CIRCEE aura lieu le vendredi 4 décembre 2026, de 13h30 à 18h, au CIRED, en salle de conférence.
 
 La séance se tiendra également en hybride.
 
