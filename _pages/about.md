@@ -33,7 +33,7 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 
 # Organisateur·ice·s du séminaire
 
-- Adam Poupard, doctorant à EconomiX, Université Paris-Nanterre & CESCO, Muséum National d'Histoire Naturelle
+- Adam Poupard, doctorant à l'Université Paris-Nanterre & Muséum National d'Histoire Naturelle
 - Mathieu Maguet, doctorant à l'URCA & iEES, Sorbonne Université
 - Morgane Gonon, doctorante au CIRED & AFD
 - Eulalie Saïsset, doctorante au CIRED & Sciences Po Paris
@@ -46,12 +46,15 @@ Tout·e doctorant·e souhaitant participer peut proposer une séance thématique
 - Benjamin Trouvé, doctorant à EconomiX à l'Université Paris Nanterre
 - Tanguy Bonnet, ATER à l'Université Paris Nanterre
 - Jean-André Davy--Guidicelli, doctorant à l'Université de Lausanne
-- Matthieu Bordenave, doctorant à l'Université de Pise, et à l'UCLouvain
+- Matthieu Bordenave, doctorant à l'Université de Pise & UCLouvain
 - Julien Salama, doctorant à l'Université de Florence
 - Layla Hallak, doctorante à l'Université de Rouen
 - Julia Péré, doctorante au CIRED
 - Kilian Rouge, doctorant au CIRED
 - Arnaud Destarac, doctorant au CIRED
+- Ilan Khalifa--Delclos, masterant EHESS
+- Philippine Cedrone, doctorante à SciencesPo Paris
+- Gabriel Baratte, doctorant au CIRED
 
 # Newsletter
 
