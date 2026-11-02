@@ -23,7 +23,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/calendar/";
           },
-        },{id: "post-séance-limites-planétaires",
+        },{id: "post-séance-état-environnemental",
+        
+          title: "Séance État environnemental",
+        
+        description: "La séance « État environnemental » du séminaire des doctorant·e·s du CIRCEE se tient le jeudi 17 octobre, de 13h30 à 17h30, au CIRED, en salle de conférence et en hybride !",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seance-Etat/";
+          
+        },
+      },{id: "post-séance-besoins",
+        
+          title: "Séance Besoins",
+        
+        description: "La huitième séance de la session 2026 se tiendra le vendredi 4 décembre au CIRED, en salle de conférence et en hybride !",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seance-besoins/";
+          
+        },
+      },{id: "post-séance-limites-planétaires",
         
           title: "Séance Limites planétaires",
         
