@@ -22,17 +22,21 @@ La séance se tiendra également en hybride.
 
 # Programme
 
-## Table ronde 1 à 14h : Quelle planification de nos besoins ?
-
-[Vivien FISCH-ROMITO](https://igd.unil.ch/vfisch-romito/), chercheur à l'institut de Géographie et de Durabilité à l'UNIL
-[Geneviève PRUVOST](https://cems.ehess.fr/membres/genevieve-pruvost), directrice de recherche à l'EHESS  
-[Hugo MOSNERON-DUPIN](https://hugo-mosnerondupin.notion.site/), doctorant au CIRED et à la République des Savoirs
-
-## Table ronde 2 à 16h : Quelle histoire de la notion de besoins ?
+## Table ronde 1 à 13h30 : Histoire d'un concept, effacement ancien et réapparition récente
 
 [Louise VILLENEUVE](https://www.centre-cired.fr/louise-villeneuve/), chercheuse post-doctorale au CIRED
-[Jeanne GUIEN](https://shs.cairn.info/publications-de-jeanne-guien--664280), docteure en philosophie et chercheuse indépendante  
+[Hugo MOSNERON-DUPIN](https://hugo-mosnerondupin.notion.site/), doctorant au CIRED et à la République des Savoirs
 [Agnès GRIVAUX](https://www.univ-nantes.fr/agnes-grivaux), maîtresse de conférence en philosophie, Université de Nantes
+
+## Table ronde 2 à 15h30 : Politiser les besoins aujourd'hui, les modéliser demain
+
+[Jeanne GUIEN](https://shs.cairn.info/publications-de-jeanne-guien--664280), docteure en philosophie et chercheuse indépendante  
+[Geneviève PRUVOST](https://cems.ehess.fr/membres/genevieve-pruvost), directrice de recherche à l'EHESS  
+[Vivien FISCH-ROMITO](https://igd.unil.ch/vfisch-romito/), chercheur à l'institut de Géographie et de Durabilité à l'UNIL
+
+## Conclusion et discussion à 17h
+
+
 
 La séance sera suivie d'un moment convivial.
 
