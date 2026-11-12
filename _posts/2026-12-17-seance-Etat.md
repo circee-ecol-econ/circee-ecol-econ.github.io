@@ -3,14 +3,14 @@ layout: post
 title: Séance État environnemental
 shorttitle: État environnemental
 date: 2026-12-17
-description: La séance « État environnemental » du séminaire des doctorant·e·s du CIRCEE se tient le jeudi 17 octobre, de 13h30 à 17h30, au CIRED, en salle de conférence et en hybride !
+description: La séance « État environnemental » du séminaire des doctorant·e·s du CIRCEE se tient le jeudi 17 décembre, de 13h30 à 17h30, au CIRED, en salle de conférence et en hybride !
 tags: etat-environnemental
 categories: session
 place: de 13h30 à 17h30 au CIRED et en ligne
 poster: Séance8_CIRCEEV2.png
 ---
 
-Notez dans vos agendas : la séance « État environnemental » du séminaire des doctorant·e·s du CIRCEE aura lieu le jeudi 17 octobre, de 13h30 à 17h30, au CIRED, en salle de conférence.
+Notez dans vos agendas : la séance « État environnemental » du séminaire des doctorant·e·s du CIRCEE aura lieu le jeudi 17 décembre, de 13h30 à 17h30, au CIRED, en salle de conférence.
 
 La séance se tiendra également en hybride. Les informations pour suivre la séance à distance sont disponibles sur le site du séminaire.
 

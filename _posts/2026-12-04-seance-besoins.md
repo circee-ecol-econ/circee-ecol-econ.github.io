@@ -6,7 +6,7 @@ date: 2026-12-04
 description: La huitième séance de la session 2026 se tiendra le vendredi 4 décembre au CIRED, en salle de conférence et en hybride !
 tags: besoins
 categories: session
-place: à 13h30 au CIRED et en ligne
+place: 13h30 au CIRED et en ligne
 poster: Séance7_besoins.webp
 ---
 
