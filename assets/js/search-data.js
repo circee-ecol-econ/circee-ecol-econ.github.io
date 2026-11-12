@@ -27,7 +27,7 @@ ninja.data = [{
         
           title: "Séance État environnemental",
         
-        description: "La séance « État environnemental » du séminaire des doctorant·e·s du CIRCEE se tient le jeudi 17 octobre, de 13h30 à 17h30, au CIRED, en salle de conférence et en hybride !",
+        description: "La séance « État environnemental » du séminaire des doctorant·e·s du CIRCEE se tient le jeudi 17 décembre, de 13h30 à 17h30, au CIRED, en salle de conférence et en hybride !",
         section: "Posts",
         handler: () => {
           
