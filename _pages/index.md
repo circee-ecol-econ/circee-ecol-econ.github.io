@@ -32,7 +32,7 @@ Bienvenue sur le site du Séminaire du CIRCEE. Pour ne rien rater des nouvelles 
 {% if next_post %}
 **{{ next_post.title }}**
 
-*Le {{ next_post.date | date: "%-d" }}  
+*Le {{ next_post.date | date: "%-d" }}{{ " " }}
 {%- assign month_index = next_post.date | date: "%-m" | minus: 1 -%} 
 {%- assign fr_months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," -%}
 {{ fr_months[month_index] }} {{ next_post.date | date: "%Y" }}
