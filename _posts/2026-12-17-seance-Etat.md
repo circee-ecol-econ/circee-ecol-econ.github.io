@@ -7,15 +7,19 @@ description: La séance « État environnemental » du séminaire des doctorant�
 tags: etat-environnemental
 categories: session
 place: de 13h30 à 17h30 au CIRED et en ligne
-poster: Séance8_CIRCEEV2.png
+poster: Séance8_Etat.webp
 ---
 
 Notez dans vos agendas : la séance « État environnemental » du séminaire des doctorant·e·s du CIRCEE aura lieu le jeudi 17 décembre, de 13h30 à 17h30, au CIRED, en salle de conférence.
 
 La séance se tiendra également en hybride. Les informations pour suivre la séance à distance sont disponibles sur le site du séminaire.
 
+<p>
+  <a href="https://sciencespo.zoom.us/j/98301647394" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.65rem 1.2rem; border-radius: 0.4rem; background-color: #2D8CFF; color: #fff; font-weight: 600; text-decoration: none;">Rejoindre la séance sur Zoom</a>
+  <a href="https://my.weezevent.com/economie-politique-de-la-transformation-ecologique-de-letat" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-left: 0.5rem; padding: 0.65rem 1.2rem; border: 1px solid #2D8CFF; border-radius: 0.4rem; color: #2D8CFF; font-weight: 600; text-decoration: none;">S'inscrire en présentiel</a>
+</p>
 
-{% include figure.liquid loading="eager" path="assets/img/session_poster/éance8_CIRCEEV2.png" alt="Poster de la séance État environnemental du CIRCEE" title="Séance État environnemental du CIRCEE - 17 décembre" %}
+{% include figure.liquid loading="eager" path="assets/img/session_poster/Séance8_Etat.webp" alt="Poster de la séance État environnemental du CIRCEE" title="Séance État environnemental du CIRCEE - 17 décembre" %}
 
 
 # Programme
